@@ -1,4 +1,4 @@
-# GoogleAPI-Restaurants
+# Restaurant Search using Google API
 
 ![google mapas restaurant](https://user-images.githubusercontent.com/59941082/151718761-6c7396c1-6aca-4f67-8bae-9ff9cd0e28d7.png)
 
